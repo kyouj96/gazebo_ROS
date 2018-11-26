@@ -1,3 +1,0 @@
-/home/parallels/Desktop/gazebo_ws/build/CMakeFiles/edit_cache.dir
-/home/parallels/Desktop/gazebo_ws/build/CMakeFiles/rebuild_cache.dir
-/home/parallels/Desktop/gazebo_ws/build/CMakeFiles/velodyne_plugin.dir
